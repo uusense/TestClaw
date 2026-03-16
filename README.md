@@ -1,4 +1,7 @@
-<img src="logo.png" alt="TestClaw" style="zoom: 33%;" />
+
+<p align="center">
+  <img src="logo.png" alt="TestClaw" width="200" />
+</p>
 
 
 # TestClaw
